@@ -1,14 +1,10 @@
 <div align="center">
-  <img src="./llmesh.png" alt="LLMESH Network" width="400">
-  
-  <br><br>
-  
+  <img src="./llmesh.png" alt="LLMESH Network" >
+
   [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-  [![Discord](https://img.shields.io/discord/1234567890?label=Discord&logo=discord)](https://discord.gg/llmesh)
   [![Twitter Follow](https://img.shields.io/twitter/follow/LLMESHNetwork?style=social)](https://twitter.com/LLMESHNetwork)
-  [![Website](https://img.shields.io/badge/Website-llmesh.network-brightgreen)](https://llmesh.network)
-  [![GitHub](https://img.shields.io/badge/GitHub-llmesh--network-black?logo=github)](https://github.com/llmesh-network/llmesh)
+  [![Website](https://img.shields.io/badge/Website-llmesh.io-brightgreen)](https://llmesh.io)
   
   <br>
   
@@ -17,13 +13,13 @@
 
 # LLMESH Network
 
-## 🌐 Decentralized LLM & AI Infrastructure
+## Decentralized LLM & AI Infrastructure
 
 LLMESH is a revolutionary peer-to-peer network where LLMs and AI models connect directly without central servers. Each node acts as both a model host and router, creating a self-healing, scalable infrastructure for the future of AI.
 
 **"No Center, All Connected"**
 
-### 🚀 Key Features
+### Key Features
 
 - **True P2P Architecture**: LLMs and AI models communicate directly without intermediaries
 - **Self-Healing Network**: Automatic rerouting when nodes go offline
@@ -31,7 +27,7 @@ LLMESH is a revolutionary peer-to-peer network where LLMs and AI models connect 
 - **Incentivized Participation**: $MESH token rewards for network contribution
 - **Privacy-First Design**: End-to-end encryption for all communications
 
-### 📊 Network Statistics
+### Network Statistics
 
 - **Active Nodes**: 1,247
 - **LLM Models**: 89
@@ -39,7 +35,7 @@ LLMESH is a revolutionary peer-to-peer network where LLMs and AI models connect 
 - **Avg Response Time**: 47ms
 - **Network Uptime**: 99.97%
 
-### 🔧 Quick Start
+### Quick Start
 
 ```bash
 # Install LLMESH
@@ -52,35 +48,13 @@ llmesh-node start --stake 1000
 llmesh-deploy model.onnx --name "my-llm" --fee 0.1
 ```
 
-### 📚 Documentation
+### Documentation
 
 - [Architecture Overview](docs/architecture.md)
 - [API Reference](docs/api-reference.md)
 - [Whitepaper](docs/whitepaper.md)
-- [Tokenomics](docs/tokenomics.md)
 
-### 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-### 📈 Roadmap
-
-**Q1 2025**
-- [x] Core P2P protocol
-- [x] Basic routing algorithm
-- [ ] Testnet launch
-
-**Q2 2025**
-- [ ] LLM-optimized inference
-- [ ] Model marketplace
-- [ ] Mobile SDK
-
-**Q3 2025**
-- [ ] Mainnet launch
-- [ ] Cross-chain bridges
-- [ ] Enterprise features
-
-### 💎 $MESH Token
+### $MESH Token
 
 The $MESH token powers the network economy:
 - **Staking**: Secure the network and earn rewards
@@ -88,7 +62,7 @@ The $MESH token powers the network economy:
 - **Governance**: Vote on protocol upgrades
 - **Incentives**: Earn by providing compute resources
 
-### 🏢 For Investors
+### For Investors
 
 LLMESH represents the future of decentralized AI infrastructure, with a focus on LLMs and foundation models. We're building the backbone for decentralized AI applications.
 
@@ -97,15 +71,12 @@ LLMESH represents the future of decentralized AI infrastructure, with a focus on
 - **Team**: Ex-Google, OpenAI, and Ethereum engineers
 - **Backing**: Tier-1 VCs and strategic partners
 
-[📄 Investor Deck](https://llmesh.network/investors)
-[📧 Contact: invest@llmesh.network](mailto:invest@llmesh.network)
+[Contact: invest@llmesh.io](mailto:invest@llmesh.io)
 
-### 📞 Contact
+### Contact
 
-- **Website**: [https://llmesh.network](https://llmesh.network)
-- **Discord**: [Join our community](https://discord.gg/llmesh)
-- **Twitter**: [@LLMESHNetwork](https://twitter.com/LLMESHNetwork)
-- **Email**: hello@llmesh.network
+- **Website**: [https://llmesh.io](https://llmesh.io)
+- **X**: [@LLMESHNetwork](https://twitter.com/LLMESHNetwork)
 
 ---
 

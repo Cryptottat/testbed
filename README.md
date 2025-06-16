@@ -1,13 +1,10 @@
 <div align="center">
   <img src="./llmesh.png" alt="LLMESH Network" >
 
-  
   [![许可证: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-  [![Discord](https://img.shields.io/discord/1234567890?label=Discord&logo=discord)](https://discord.gg/llmesh)
   [![Twitter 关注](https://img.shields.io/twitter/follow/LLMESHNetwork?style=social)](https://twitter.com/LLMESHNetwork)
-  [![网站](https://img.shields.io/badge/网站-llmesh.network-brightgreen)](https://llmesh.network)
-  [![GitHub](https://img.shields.io/badge/GitHub-llmesh--network-black?logo=github)](https://github.com/llmesh-network/llmesh)
+  [![网站](https://img.shields.io/badge/网站-llmesh.io-brightgreen)](https://llmesh.io)
   
   <br>
   
@@ -16,13 +13,13 @@
 
 # LLMESH 网络
 
-## 🌐 去中心化 LLM 和 AI 基础设施
+## 去中心化 LLM 和 AI 基础设施
 
 LLMESH 是一个革命性的点对点网络，LLM 和 AI 模型可以在没有中央服务器的情况下直接连接。每个节点既充当模型主机又充当路由器，为 AI 的未来创建一个自愈、可扩展的基础设施。
 
 **"无中心，全连接"**
 
-### 🚀 核心特性
+### 核心特性
 
 - **真正的 P2P 架构**：LLM 和 AI 模型无需中介即可直接通信
 - **自愈网络**：节点离线时自动重新路由
@@ -30,7 +27,7 @@ LLMESH 是一个革命性的点对点网络，LLM 和 AI 模型可以在没有�
 - **激励参与**：$MESH 代币奖励网络贡献
 - **隐私优先设计**：所有通信的端到端加密
 
-### 📊 网络统计
+### 网络统计
 
 - **活跃节点**：1,247
 - **LLM 模型**：89
@@ -38,7 +35,7 @@ LLMESH 是一个革命性的点对点网络，LLM 和 AI 模型可以在没有�
 - **平均响应时间**：47ms
 - **网络正常运行时间**：99.97%
 
-### 🔧 快速开始
+### 快速开始
 
 ```bash
 # 安装 LLMESH
@@ -51,35 +48,13 @@ llmesh-node start --stake 1000
 llmesh-deploy model.onnx --name "my-llm" --fee 0.1
 ```
 
-### 📚 文档
+### 文档
 
 - [架构概览](docs/architecture.md)
 - [API 参考](docs/api-reference.md)
 - [白皮书](docs/whitepaper.md)
-- [代币经济学](docs/tokenomics.md)
 
-### 🤝 贡献
-
-我们欢迎贡献！请参阅 [CONTRIBUTING.md](CONTRIBUTING.md) 获取指南。
-
-### 📈 路线图
-
-**2025 年第一季度**
-- [x] 核心 P2P 协议
-- [x] 基础路由算法
-- [ ] 测试网启动
-
-**2025 年第二季度**
-- [ ] LLM 优化推理
-- [ ] 模型市场
-- [ ] 移动 SDK
-
-**2025 年第三季度**
-- [ ] 主网启动
-- [ ] 跨链桥接
-- [ ] 企业功能
-
-### 💎 $MESH 代币
+### $MESH 代币
 
 $MESH 代币为网络经济提供动力：
 - **质押**：保护网络并获得奖励
@@ -87,7 +62,7 @@ $MESH 代币为网络经济提供动力：
 - **治理**：对协议升级进行投票
 - **激励**：通过提供计算资源赚取收益
 
-### 🏢 投资者信息
+### 投资者信息
 
 LLMESH 代表着去中心化 AI 基础设施的未来，专注于 LLM 和基础模型。我们正在构建去中心化 AI 应用的支柱。
 
@@ -96,15 +71,12 @@ LLMESH 代表着去中心化 AI 基础设施的未来，专注于 LLM 和基础�
 - **团队**：前谷歌、OpenAI 和以太坊工程师
 - **支持**：一线风投和战略合作伙伴
 
-[📄 投资者资料](https://llmesh.network/investors)
-[📧 联系：invest@llmesh.network](mailto:invest@llmesh.network)
+[联系：invest@llmesh.io](mailto:invest@llmesh.io)
 
-### 📞 联系方式
+### 联系方式
 
-- **网站**：[https://llmesh.network](https://llmesh.network)
-- **Discord**：[加入我们的社区](https://discord.gg/llmesh)
-- **Twitter**：[@LLMESHNetwork](https://twitter.com/LLMESHNetwork)
-- **邮箱**：hello@llmesh.network
+- **网站**：[https://llmesh.io](https://llmesh.io)
+- **X**：[@LLMESHNetwork](https://twitter.com/LLMESHNetwork)
 
 ---
 
